@@ -129,7 +129,7 @@ Sitio corporativo desarrollado desde cero para mi emprendimiento de asesorías a
 
 ## 🎓 Formación y certificaciones
 
-- **Ingeniería de Sistemas** · Universidad Francisco de Paula Santander (en proceso de grado, octubre 2026)
+- **Ingeniería de Sistemas** · Universidad Francisco de Paula Santander (2026)
 - Curso intermedio de React Native · Frontend Masters (2025)
 - Fundamentos de Planeación y Administración de Proyectos · Coursera, University of Virginia (2024)
 - AWS Academy Cloud Security Foundations (2024) · AWS Academy Cloud Foundations (2023)
